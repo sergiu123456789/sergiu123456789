@@ -17,21 +17,20 @@ This interactive agent will walk you through:
 ---
 
 ## 🔧 Tech & Focus Areas  
-- AI Agents • Automation • LLM Integrations  
-- Backend development • API design  
-- Data workflows • Python • JS  
+- Machine Learning & NLP • LLMs • Agentic AI
+- Generative AI solutions • RAG chatbots • Model fine-tuning
+- Python development • ML pipelines • Cloud deployment (AWS)   
 
 ---
 
 ## 📌 Featured Projects  
-(Replace these with your actual projects)
 
-- **Project A** — short description  
-- **Project B** — short description  
-- **Project C** — short description  
-
+- **RAG Q&A Chatbot** — Document-grounded chatbot using embeddings and retrieval for precise answers.
+- **Character AI Chatbot** — Custom persona-driven conversational agent with memory and behavior tuning.  
+- **Agentic AI Systems** — Automation workflows built with AutoGen, LangGraph, and CrewAI for multi-agent task orchestration.  
+- ...
 ---
 
 ## 📫 Contact  
 Feel free to reach out on LinkedIn:  
-**https://www.linkedin.com/in/sergiu123456789/**
+**https://www.linkedin.com/in/sergiu-nicoara-31b27013/**
