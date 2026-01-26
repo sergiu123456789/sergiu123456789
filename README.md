@@ -6,7 +6,7 @@ If you’re a recruiter or technical evaluator, start with the guided tour below
 ---
 
 ## ✨ Guided Tour of My Work (AI Agent)
-👉 **https://sergiu123456789.github.io/?src=github**
+👉 **https://sergiunicoara.github.io/?src=github**
 
 This interactive agent will walk you through:
 - my strongest projects and code samples  
